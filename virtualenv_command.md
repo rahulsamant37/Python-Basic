@@ -1,3 +1,5 @@
+![diagram-export-4-7-2025-4_50_24-AM](https://github.com/user-attachments/assets/19752b13-20bb-41a0-9744-dc048bb34898)
+
 Here are five methods to create and manage Python virtual environments:
 
 1. **uv**:
